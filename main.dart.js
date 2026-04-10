@@ -79682,7 +79682,7 @@ return A.P($async$z1,r)},
 M(a){var s=this,r=null,q=A.azR(r,r,B.I0,r,r,r,10,r,r,B.k,r,r,r,r,new A.cn(A.mC(15),B.q),r,r,r,r,r),p=s.f?r:s.gamn(),o=t.E,n=A.d([],o)
 if(s.f)n.push(B.Jl)
 else n.push(B.S8)
-n.push(A.h8(s.f?"SCANNING...":"SCAN FOR SM_PRISM_01",r,r,r,B.P1,r,r))
+n.push(A.h8(s.f?"SCANNING...":"SCAN FOR SM_PRISM",r,r,r,B.P1,r,r))
 q=A.alK(A.FV(A.d([B.Sd,B.MM,B.Sc,B.MN,A.h6(A.apW(A.amJ(n,B.bk,B.jY,B.dc),p,q),65,1/0)],o),B.bk,B.bo,B.dc),B.I,B.zE,r,r,B.Df,r)
 if(J.uo(s.e))p=A.pM(A.h8(s.f?"Searching...":"No Networks Found",r,r,r,r,r,r),r,r)
 else{p=J.cF(s.e)
